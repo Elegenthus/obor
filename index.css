@@ -1,0 +1,81 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #999999;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    width: 100%;
+}
+
+.title_s {
+    margin: 32px 0;
+    font-size: 0;
+}
+
+.front {
+    width: 5px;
+    height: 28px;
+    background: #d06847;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ti {
+    font-size: 24px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+
+.line {
+    font-size: 0;
+    margin-bottom: 42px;
+}
+
+.box {
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.name {
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.svg {
+    width: 60%;
+}
+
+.footer {
+    height: 100px;
+    /* line-height: 100px; */
+    width: 100%;
+    font-size: 18px;
+    color: #e6e6e6;
+    background: #1a1a1a;
+    text-align: center;
+}
+
+.link_s {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #e6e6e6;
+}
+
+.qtcode {
+    width: 45px;
+    margin-top: 22px;
+}
+
+.qtWord {
+    font-size: 12px;
+}
