@@ -46,6 +46,12 @@ a {
     vertical-align: middle;
 }
 
+.word {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #333333;
+}
+
 .name {
     font-size: 18px;
     margin-top: 12px;
@@ -57,19 +63,45 @@ a {
 
 .footer {
     height: 100px;
-    /* line-height: 100px; */
+    line-height: 100px;
     width: 100%;
-    font-size: 18px;
-    color: #e6e6e6;
+    font-size: 12px;
+    color: #999999;
     background: #1a1a1a;
     text-align: center;
 }
 
 .link_s {
-    margin-top: 20px;
+    width: 18px;
+    line-height: 1;
+    margin: 11px;
+    font-weight: bolder;
     font-size: 18px;
-    color: #e6e6e6;
+    display: inline-block;
+    vertical-align: top;
+    color: #f0e8e9;
 }
+
+.qtbox {
+    margin: 0 8px 0 15px;
+    vertical-align: top;
+    display: none;
+}
+
+.side:hover .qtbox {
+    /* animation: showSide 2s ease-in-out; */
+    display: inline-block;
+}
+
+
+/* @keyframes showSide {
+    0% {
+        display: none;
+    }
+    100% {
+        display: inline-block;
+    }
+} */
 
 .qtcode {
     width: 45px;
@@ -78,4 +110,13 @@ a {
 
 .qtWord {
     font-size: 12px;
+}
+
+.side {
+    position: fixed;
+    top: 48%;
+    right: 0;
+    height: 100px;
+    background-color: rgba(217, 124, 114, 0.7);
+    color: #f0e8e9;
 }

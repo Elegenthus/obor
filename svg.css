@@ -18,6 +18,26 @@
     fill: #ffd449;
 }
 
+.Ncls-2 {
+    fill: #f7b737;
+}
+
+.Ncls-3 {
+    fill: #fef2d2;
+}
+
+.Ncls-4 {
+    fill: #f9dc9b;
+}
+
+.Ncls-5 {
+    fill: #d16847;
+}
+
+.Ncls-6 {
+    fill: #9a531c;
+}
+
 .Hcls-1 {
     fill: #ffd449;
 }
@@ -27,14 +47,6 @@
 }
 
 .Hcls-3 {
-    fill: #fef2d2;
-}
-
-.Hcls-4 {
-    fill: #d16847;
-}
-
-.Hcls-5 {
     fill: none;
     stroke: #ffd449;
     stroke-linecap: round;
@@ -42,7 +54,11 @@
     stroke-width: 9px;
 }
 
-.Hcls-6 {
+.Hcls-4 {
+    fill: #d16847;
+}
+
+.Hcls-5 {
     fill: #9a531c;
 }
 
@@ -67,26 +83,6 @@
 }
 
 .Pcls-6 {
-    fill: #9a531c;
-}
-
-.Ncls-2 {
-    fill: #fef2d2;
-}
-
-.Ncls-3 {
-    fill: #f7b737;
-}
-
-.Ncls-4 {
-    fill: #f9dc9b;
-}
-
-.Ncls-5 {
-    fill: #d16847;
-}
-
-.Ncls-6 {
     fill: #9a531c;
 }
 
@@ -134,47 +130,35 @@
     fill: #9a531c;
 }
 
-.Bcls-1 {
-    fill: #fef2d2;
-}
-
+.Bcls-1,
 .Bcls-2 {
-    fill: #d16847;
-}
-
-.Bcls-3,
-.Bcls-8 {
     fill: none;
     stroke-linecap: round;
     stroke-miterlimit: 10;
     stroke-width: 9px;
 }
 
-.Bcls-3 {
+.Bcls-1 {
     stroke: #ffd449;
 }
 
-.Bcls-4 {
-    fill: #f9dc9b;
-}
-
-.Bcls-5 {
-    fill: #9a531c;
-}
-
-.Bcls-6 {
-    fill: #f7b737;
-}
-
-.Bcls-7 {
-    fill: #ffd449;
-}
-
-.Bcls-8 {
+.Bcls-2 {
     stroke: #f7b737;
 }
 
+.Bcls-3 {
+    fill: #d16847;
+}
+
 .Bcls-4 {
+    fill: #9a531c;
+}
+
+.Bcls-5 {
+    fill: #ffd449;
+}
+
+.Bcls-6 {
     fill: #f7b737;
 }
 
@@ -203,57 +187,42 @@
 }
 
 .Scls-1 {
-    fill: #fef2d2;
+    fill: #d16847;
 }
 
 .Scls-2 {
-    fill: #ffd449;
+    fill: #9a531c;
 }
 
 .Scls-3 {
-    fill: #f9dc9b;
+    fill: #ffd449;
 }
 
 .Scls-4 {
     fill: #f7b737;
 }
 
-.Scls-5 {
+.Rcls-1 {
+    fill: #9a531c;
+}
+
+.Rcls-2 {
     fill: #d16847;
 }
 
-.Scls-6 {
-    fill: #9a531c;
-}
-
-.Mcls-1 {
-    fill: #d16846;
-}
-
-.Mcls-2 {
-    fill: #9a531c;
-}
-
-.Mcls-3 {
+.Rcls-3 {
     fill: #ffd449;
 }
 
-.Mcls-4 {
+.Rcls-4 {
     fill: #f7b737;
 }
 
-.Mcls-5 {
-    fill: none;
-    stroke: #ffd449;
-    stroke-miterlimit: 10;
-    stroke-width: 9px;
-}
-
-.Mcls-6 {
+.Rcls-5 {
     fill: #fef2d2;
 }
 
-.Mcls-7 {
+.Rcls-6 {
     fill: #f9dc9b;
 }
 
