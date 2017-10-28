@@ -89,19 +89,8 @@ a {
 }
 
 .side:hover .qtbox {
-    /* animation: showSide 2s ease-in-out; */
     display: inline-block;
 }
-
-
-/* @keyframes showSide {
-    0% {
-        display: none;
-    }
-    100% {
-        display: inline-block;
-    }
-} */
 
 .qtcode {
     width: 45px;
